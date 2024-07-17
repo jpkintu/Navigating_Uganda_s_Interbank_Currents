@@ -1,6 +1,3 @@
-# Navigating Uganda’s Interbank Currents: A Data Odyssey
-
-
 ## 1.	Introduction
 
 
