@@ -18,7 +18,7 @@ df.dropna(inplace = True)
 
 
 # format date type
-df['Date'] = pd.to_datetime(df['Date'], format='%d-%b-%y')
+df['Date'] = pd.to_datetime(df['Date'])
 
 
 #change other interest columns types to float
@@ -31,6 +31,7 @@ df["Overall_rate"]=df["Overall_rate"].str.replace("%","",regex=False).astype(flo
 df.to_csv('assets/data/Inter_Bank_Rates_Python_Cleaned.csv', index=False)
 
 # summary statistics (mean, median, standard deviation).for rate grouped by year
+df=pd.read_csv('assets/data/Inter_Bank_Rates_Python_Cleaned.csv')
 import matplotlib.pyplot as plt
 import numpy as np
 import plotly.express as px
@@ -49,7 +50,7 @@ monthly_mean =df.resample('ME').mean().plot(
     title="Average Inter Bank Rates Spread over Months"
 )
 plt.show();
-
+df.info()
 monthly_mean.to_csv('assets/data/interbank_rates_means_by_month.csv')
 print(monthly_mean)
 
@@ -59,7 +60,7 @@ annual_mean =df.resample('YE').mean().plot(
     kind='line',
     xlabel="Years",
     ylabel="Mean Inter Bank Rates",
-    title="Average Inter Bank over Years"
+    title="Average Inter Bank Rates over Years"
 )
 plt.show()
 annual_mean.to_csv('assets/data/interbank_rates_annualmeans.csv')
