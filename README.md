@@ -6,17 +6,18 @@ Picture this: In the heart of East Africa, a nation's economic destiny unfolds i
 
 "The interbank rate is the heartbeat of a nation's financial system," as renowned economist John Maynard Keynes once observed. "It sets the rhythm for economic growth and stability."
 
-In this project, we embark on a journey through time, unraveling the intricate tapestry of Uganda's interbank rates from 2012 to 2024. 
+This project delves into Uganda’s interbank rates from 2012 to 2024, using Excel for organizing and extracting data, Python for data cleaning and analysis, and Tableau for creating interactive dashboards and visuals.
+
 ### Our guide? 
 A rich dataset provided by the Bank of Uganda, offering a window into the country's economic soul. <a href="https://bou.or.ug/bouwebsite/bouwebsitecontent/statistics/InterestRates/Interest_rates.xlsx" target="_blank">SEE DATA SOURCE</a> from <a href="https://www.bou.or.ug/bouwebsite/Statistics/" target="_blank">Bank of Uganda Statistics</a>
+
 ### Why does this matter?
 Interbank rates are more than just numbers on a banker's ledger. They are the invisible hand that shapes monetary policy, influences inflation, and ultimately affects the financial well-being of every Ugandan citizen. By understanding these rates, we gain insight into the nation's economic health, its challenges, and its triumphs.
 
-This analysis will take you from the dizzying heights of 2012, where rates peaked at a staggering 18.879% for 7-day rates, to the valleys of recent years where rates have moderated. We'll explore the factors behind these fluctuations, from global economic pressures to local policy decisions, painting a vivid picture of Uganda's financial landscape.
+This analysis will take you from the dizzying heights of 2012, where rates peaked at a staggering 18.879% for 7-day rates, to the valleys of recent years where rates have moderated. As we dive into this data, we're not just crunching numbers; we're telling the story of a nation's economic journey. We'll uncover the tales hidden in the trends, the dramas played out in the dips and spikes, and the potential future written in the current trajectories.
 
-As we dive into this data, we're not just crunching numbers; we're telling the story of a nation's economic journey. We'll uncover the tales hidden in the trends, the dramas played out in the dips and spikes, and the potential future written in the current trajectories.
+Buckle up for a journey through the peaks and troughs of Uganda's financial heartbeat - a story told through the lens of interbank rates, where every percentage point tells a story.
 
-Buckle up for a journey through the peaks and troughs of Uganda's financial heartbeat - a story told through the lens of interbank rates, where every percentage point has a tale to tell.
 ## Understanding the Data
 ### Trends in Uganda's Interbank Rates (2012-2024)
 Our journey into Uganda's financial landscape begins with an overview of the interbank rates from 2012 to 2024. This analysis provides a bird's-eye view of the trends and fluctuations in the country's financial system over more than a decade.
@@ -30,11 +31,7 @@ Let's start by examining the visual representation of the data:
 **Peak in 2012:** The most striking feature of this graph is the pronounced peak in 2012. During this year, we observed the highest rates across all three categories.
 
 <img src="Assets/Tableau Charts/Average Interbank Rates by month 2012.png" alt="Avg Interbank Rates by month 2012"/>
-<p><i>Looking further into 2012; The average interbank rates for 2012 were remarkably high compared to subsequent years. The overall rate averaged 16.64%, with the seven-day rate reaching an average of 18.96% and the overnight rate at 15.23%.
-January 2012 saw the highest rates of the year, with the overnight rate at 25.90%, the seven-day rate at 28.54%, and the overall rate at 26.65%. This spike suggests a period of significant financial stress or tight monetary policy at the beginning of the year.
-Throughout the year, we observe a general downward trend in rates. By September, the overnight rate had decreased to 10.00%, indicating a substantial easing of monetary conditions over the course of the year.
-Throughout 2012, the seven-day rate consistently remained higher than the overnight rate, with an average spread of about 3.73 percentage points. This spread suggests a premium for longer-term lending, reflecting higher perceived risks or expectations of rate changes.
-The rates show considerable volatility throughout the year. For instance, the overnight rate fluctuated from a high of 25.90% in January to a low of 10.00% in September, representing a range of nearly 16 percentage points. The Seven-day rate was consistently higher than the Overnight rate throughout 2012, indicating a preference for longer-term lending among banks. The difference was most pronounced in February and August.</i></p>
+<p><i>In 2012, Uganda’s interbank rates were notably high compared to subsequent years. The overall rate averaged 16.64%, with the seven-day rate at 18.96% and the overnight rate at 15.23%. January 2012 saw peak rates, with the overnight rate at 25.90%, the seven-day rate at 28.54%, and the overall rate at 26.65%, indicating significant financial stress or tight monetary policy. Rates generally trended downward throughout the year, with the overnight rate dropping to 10.00% by September, reflecting eased monetary conditions. The seven-day rate consistently exceeded the overnight rate, with an average spread of 3.73 percentage points, suggesting a premium for longer-term lending. Rates were volatile, with the overnight rate ranging from 25.90% in January to 10.00% in September, and the seven-day rate consistently higher, especially in February and August.</i></p>
 
 <img src="Assets/Tableau Charts/Avg Interbank Rates 2012(Data_Table).png" alt="Avg Interbank Rates 2012(Data_Table)"/>
 
@@ -51,14 +48,13 @@ The Average rate difference (Seven-day - Overnight): 0.3239166666666667
     
 This indicates that longer-term lending (seven-day) was generally perceived as riskier than overnight lending. </i></p>
 
-**Volatility:** The graph reveals periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
+**Volatility:** The graphs reveal periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
 
 #### Implications:
 . Monetary Policy Evolution: The overall downward trend in rates from 2012 to 2024 reflects a generally accommodative monetary policy stance. This approach likely aimed to support economic growth by keeping borrowing costs low.
 . Economic Cycles: The fluctuations in rates over the years may correspond to Uganda's economic cycles, reflecting periods of growth, inflation concerns, and external economic shocks.
 . Financial Market Development: The gradual smoothing of rate volatility and the convergence of different tenors suggest a maturing financial market, with improved liquidity management and more efficient pricing of short-term risks.
 . Policy Responsiveness: The sharp changes in rates, particularly the 2012 peak and subsequent rapid decline, demonstrate the Bank of Uganda's ability to respond decisively to economic conditions through its monetary policy tools.
-
 
 ## 3.	Time Travel
 
