@@ -33,7 +33,7 @@ Let's start by examining the visual representation of the data:
 January 2012 saw the highest rates of the year, with the overnight rate at 25.90%, the seven-day rate at 28.54%, and the overall rate at 26.65%. This spike suggests a period of significant financial stress or tight monetary policy at the beginning of the year.
 Throughout the year, we observe a general downward trend in rates. By September, the overnight rate had decreased to 10.00%, indicating a substantial easing of monetary conditions over the course of the year.
 Throughout 2012, the seven-day rate consistently remained higher than the overnight rate, with an average spread of about 3.73 percentage points. This spread suggests a premium for longer-term lending, reflecting higher perceived risks or expectations of rate changes.
-The rates show considerable volatility throughout the year. For instance, the overnight rate fluctuated from a high of 25.90% in January to a low of 10.00% in September, representing a range of nearly 16 percentage points.</i></p>
+The rates show considerable volatility throughout the year. For instance, the overnight rate fluctuated from a high of 25.90% in January to a low of 10.00% in September, representing a range of nearly 16 percentage points. The Seven-day rate was consistently higher than the Overnight rate throughout 2012, indicating a preference for longer-term lending among banks. The difference was most pronounced in February and August.</i></p>
 
 <img src="Assets/Tableau Charts/Avg Interbank Rates 2012(Data_Table).png" alt="Avg Interbank Rates 2012(Data_Table)"/>
 
