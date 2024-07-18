@@ -18,8 +18,9 @@ df.dropna(inplace = True)
 
 
 # format date type
-df['Date'] = pd.to_datetime(df['Date'])
-
+df['Date'] = pd.to_datetime(df['Date'],format='%d-%b-%y')
+df.info()
+df.head()
 
 #change other interest columns types to float
 df["Overnight_rate"] = df.Overnight_rate.astype(float)
@@ -31,32 +32,36 @@ df["Overall_rate"]=df["Overall_rate"].str.replace("%","",regex=False).astype(flo
 df.to_csv('assets/data/Inter_Bank_Rates_Python_Cleaned.csv', index=False)
 
 # summary statistics (mean, median, standard deviation).for rate grouped by year
-df=pd.read_csv('assets/data/Inter_Bank_Rates_Python_Cleaned.csv')
+df1=pd.read_csv('assets/data/Inter_Bank_Rates_Python_Cleaned.csv')
+df1['Date'] = pd.to_datetime(df1['Date'],format='%Y-%m-%d')
+
+df1.info()
+df1.head()
+
 import matplotlib.pyplot as plt
 import numpy as np
 import plotly.express as px
 import statistics
 
-summary_stats=df.describe() 
+summary_stats=df1.describe().round(3)
 print(summary_stats)
-summary_stats.to_csv('assets/data/entire_df_summary_stats.txt',index =False)
-
+summary_stats.to_csv('assets/data/entire_df_summary_stats.csv',index =False)
+df1.info()
 # mean calculatioon by month of each year
-df.set_index('Date', inplace=True)
-monthly_mean =df.resample('ME').mean().plot(
+df1.set_index('Date',inplace=True)
+monthly_mean =df1.resample('ME').mean().round(3).plot(
     kind='line',
     xlabel="Year (Spread over Months)",
     ylabel="Mean Inter Bank Rates",
     title="Average Inter Bank Rates Spread over Months"
 )
 plt.show();
-df.info()
+df1.info()
 monthly_mean.to_csv('assets/data/interbank_rates_means_by_month.csv')
 print(monthly_mean)
 
 # mean calculatioon by each year
-df.set_index('Date', inplace=True)
-annual_mean =df.resample('YE').mean().plot(
+annual_mean =df.resample('YE').mean().round(3).plot(
     kind='line',
     xlabel="Years",
     ylabel="Mean Inter Bank Rates",
@@ -83,19 +88,21 @@ filtered_df.to_csv('assets/data/inter_bank_rates_july23_june24.csv')
 df_june24=pd.read_csv('assets/data/inter_bank_rates_july23_june24.csv')
 df_june24['Date'] = pd.to_datetime(df_june24['Date'])
 
+df_june24.info()
+
 import matplotlib.pyplot as plt
 import numpy as np
 import plotly.express as px
 import statistics
 
 #General Stats for 2023-2024
-fy_summary_stats=df_june24.describe() 
+fy_summary_stats=df_june24.describe().round(3)
 print(fy_summary_stats)
-fy_summary_stats.to_csv('assets/data/fy_summary_stats.txt',index =False)
+fy_summary_stats.to_csv('assets/data/fy_summary_stats.csv',index =False)
 
 # mean calculatioon by month 2023-2024
 df_june24.set_index('Date',inplace=True)
-fy_monthly_mean =df_june24.resample('ME').mean().plot(
+fy_monthly_mean =df_june24.resample('ME').mean().round(3).plot(
     kind='line',
     xlabel="Months",
     ylabel="Mean Inter Bank Rates",
@@ -103,10 +110,10 @@ fy_monthly_mean =df_june24.resample('ME').mean().plot(
 )
 plt.show();
 fy_monthly_mean.to_csv('assets/data/interbank_rates_means_by_month_2023_2024.csv')
+print(fy_monthly_mean)
 
 # median calculatioon by month 2023-2024
-df_june24.set_index('Date',inplace=True)
-fy_monthly_median =df_june24.resample('ME').median().plot(
+fy_monthly_median =df_june24.resample('ME').median().round(3).plot(
     kind='line',
     xlabel="Months",
     ylabel="Median Inter Bank Rates",
@@ -114,9 +121,14 @@ fy_monthly_median =df_june24.resample('ME').median().plot(
 )
 plt.show();
 fy_monthly_median.to_csv('assets/data/interbank_rates_median_by_month_2023_2024.csv')
+print(fy_monthly_median)
 
 # SD calculatioon by month 2023-2024
-df_sd = df_june24.groupby(df_june24['Date'].dt.to_period('M')).agg({'Overnight_rate': 'std', 'Seven_day_rate': 'std', 'Overall_rate': 'std'}).plot(
+df_june24=pd.read_csv('assets/data/inter_bank_rates_july23_june24.csv')
+df_june24['Date'] = pd.to_datetime(df_june24['Date'])
+
+
+df_sd = df_june24.groupby(df_june24['Date'].dt.to_period('M')).agg({'Overnight_rate': 'std', 'Seven_day_rate': 'std', 'Overall_rate': 'std'}).round(3).plot(
     kind='line',
     xlabel="Months",
     ylabel="SD Inter Bank Rates",
@@ -127,5 +139,4 @@ df_sd.to_csv('assets/data/interbank_rates_sd_by_month_2023_2024.csv')
 
 
 print(df_sd)
-df_june24.info()
-df_june24.head
+
