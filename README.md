@@ -23,6 +23,7 @@ Our journey into Uganda's financial landscape begins with an overview of the int
 Let's start by examining the visual representation of the data:
 <img src="Assets/Tableau Charts/Avg inter bank rates over years(2012-2024).png" alt="Avg inter bank rates over years(2012-2024)"/>
 <p align="center"><i>This graph illustrates the annual mean rates for three key metrics: the overnight rate, the seven-day rate, and the overall rate. Each line tells a story of Uganda's economic journey, with peaks and troughs reflecting various economic conditions and policy decisions.</i></p>
+
 #### Key Observations:
 
 **Peak in 2012:** The most striking feature of this graph is the pronounced peak in 2012. During this year, we observed the highest rates across all three categories.
@@ -33,6 +34,8 @@ January 2012 saw the highest rates of the year, with the overnight rate at 25.90
 Throughout the year, we observe a general downward trend in rates. By September, the overnight rate had decreased to 10.00%, indicating a substantial easing of monetary conditions over the course of the year.
 Throughout 2012, the seven-day rate consistently remained higher than the overnight rate, with an average spread of about 3.73 percentage points. This spread suggests a premium for longer-term lending, reflecting higher perceived risks or expectations of rate changes.
 The rates show considerable volatility throughout the year. For instance, the overnight rate fluctuated from a high of 25.90% in January to a low of 10.00% in September, representing a range of nearly 16 percentage points.</i></p>
+
+<img src="Assets/Tableau Charts/Average Interbank Rates 2012(Data_Table).png" alt="Avg Interbank Rates 2012(Data_Table)"/>
 
 **General Downward Trend:** Following the 2012 peak, we see a general downward trend in all three rates. This decline indicates a gradual easing of monetary policy over the years, potentially aimed at stimulating economic growth by reducing borrowing costs.
 
