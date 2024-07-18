@@ -10,14 +10,14 @@ This project delves into Uganda’s interbank rates from 2012 to 2024, using Exc
 
 ### Our guide? 
 A rich dataset provided by the Bank of Uganda, offering a window into the country's economic soul. <a href="https://bou.or.ug/bouwebsite/bouwebsitecontent/statistics/InterestRates/Interest_rates.xlsx" target="_blank">SEE DATA SOURCE</a> from <a href="https://www.bou.or.ug/bouwebsite/Statistics/" target="_blank">Bank of Uganda Statistics</a>
+
 ### Why does this matter?
 Interbank rates are more than just numbers on a banker's ledger. They are the invisible hand that shapes monetary policy, influences inflation, and ultimately affects the financial well-being of every Ugandan citizen. By understanding these rates, we gain insight into the nation's economic health, its challenges, and its triumphs.
 
-This analysis will take you from the dizzying heights of 2012, where rates peaked at a staggering 18.879% for 7-day rates, to the valleys of recent years where rates have moderated. We'll explore the factors behind these fluctuations, from global economic pressures to local policy decisions, painting a vivid picture of Uganda's financial landscape.
+This analysis will take you from the dizzying heights of 2012, where rates peaked at a staggering 18.879% for 7-day rates, to the valleys of recent years where rates have moderated. As we dive into this data, we're not just crunching numbers; we're telling the story of a nation's economic journey. We'll uncover the tales hidden in the trends, the dramas played out in the dips and spikes, and the potential future written in the current trajectories.
 
-As we dive into this data, we're not just crunching numbers; we're telling the story of a nation's economic journey. We'll uncover the tales hidden in the trends, the dramas played out in the dips and spikes, and the potential future written in the current trajectories.
+Buckle up for a journey through the peaks and troughs of Uganda's financial heartbeat - a story told through the lens of interbank rates, where every percentage point tells a story.
 
-Buckle up for a journey through the peaks and troughs of Uganda's financial heartbeat - a story told through the lens of interbank rates, where every percentage point has a tale to tell.
 ## Understanding the Data
 ### Trends in Uganda's Interbank Rates (2012-2024)
 Our journey into Uganda's financial landscape begins with an overview of the interbank rates from 2012 to 2024. This analysis provides a bird's-eye view of the trends and fluctuations in the country's financial system over more than a decade.
