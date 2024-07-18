@@ -28,7 +28,7 @@ Our journey into Uganda's financial landscape begins with an overview of the int
 
 Let's start by examining the visual representation of the data:
 
-![](assets/Tableau Charts/Avg inter bank rates over years(2012-2024).png)
+![]('assets/Tableau Charts/Avg inter bank rates over years(2012-2024).png')
 
 This graph illustrates the annual mean rates for three key metrics: the overnight rate, the seven-day rate, and the overall rate. Each line tells a story of Uganda's economic journey, with peaks and troughs reflecting various economic conditions and policy decisions.
 #### Key Observations:
