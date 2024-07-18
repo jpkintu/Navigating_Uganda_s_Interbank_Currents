@@ -47,6 +47,7 @@ There was a significant drop in rates in June 2024. The highest rates were obser
 The Average rate difference (Seven-day - Overnight): 0.3239166666666667
     
 This indicates that longer-term lending (seven-day) was generally perceived as riskier than overnight lending. </i></p>
+<img src="Assets/Tableau Charts/Avg Interbank Rates (2023-2024) Data Table.png" alt="Avg Interbank Rates (2023-2024) Data Table"/>
 
 **Volatility:** The graphs reveal periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
 
