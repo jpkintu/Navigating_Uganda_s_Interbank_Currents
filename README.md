@@ -59,7 +59,6 @@ This indicates that longer-term lending (seven-day) was generally perceived as r
 . Financial Market Development: The gradual smoothing of rate volatility and the convergence of different tenors suggest a maturing financial market, with improved liquidity management and more efficient pricing of short-term risks.
 . Policy Responsiveness: The sharp changes in rates, particularly the 2012 peak and subsequent rapid decline, demonstrate the Bank of Uganda's ability to respond decisively to economic conditions through its monetary policy tools.
 
-
 ## 3.	Time Travel
 
 ## 4.	Connections and Relationships
