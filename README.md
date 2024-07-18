@@ -5,10 +5,8 @@ Picture this: In the heart of East Africa, a nation's economic destiny unfolds i
 "The interbank rate is the heartbeat of a nation's financial system," as renowned economist John Maynard Keynes once observed. "It sets the rhythm for economic growth and stability."
 
 In this project, we embark on a journey through time, unraveling the intricate tapestry of Uganda's interbank rates from 2012 to 2024. 
-
 ### Our guide? 
 A rich dataset provided by the Bank of Uganda, offering a window into the country's economic soul. <a href="https://bou.or.ug/bouwebsite/bouwebsitecontent/statistics/InterestRates/Interest_rates.xlsx" target="_blank">SEE DATA SOURCE</a> from <a href="https://www.bou.or.ug/bouwebsite/Statistics/" target="_blank">Bank of Uganda Statistics</a>
-
 ### Why does this matter?
 Interbank rates are more than just numbers on a banker's ledger. They are the invisible hand that shapes monetary policy, influences inflation, and ultimately affects the financial well-being of every Ugandan citizen. By understanding these rates, we gain insight into the nation's economic health, its challenges, and its triumphs.
 
@@ -19,7 +17,6 @@ As we dive into this data, we're not just crunching numbers; we're telling the s
 Join me as we decode the language of Uganda's interbank rates, transforming raw data into a compelling narrative of economic resilience, challenge, and transformation. Whether you're a finance enthusiast, a policy maker, or simply curious about the forces shaping East Africa's economies, this analysis promises to shed light on the subtle yet powerful forces driving Uganda's financial markets.
 
 Buckle up for a journey through the peaks and troughs of Uganda's financial heartbeat - a story told through the lens of interbank rates, where every percentage point has a tale to tell.
-
 ## 2.	Understanding the Data
 ### Trends in Uganda's Interbank Rates (2012-2024)
 Our journey into Uganda's financial landscape begins with an overview of the interbank rates from 2012 to 2024. This analysis provides a bird's-eye view of the trends and fluctuations in the country's financial system over more than a decade.
@@ -27,13 +24,12 @@ Our journey into Uganda's financial landscape begins with an overview of the int
 Let's start by examining the visual representation of the data:
 <img src="Assets/Tableau Charts/Avg inter bank rates over years(2012-2024).png" alt="Avg inter bank rates over years(2012-2024)"/>
 <p align="center"><i>This graph illustrates the annual mean rates for three key metrics: the overnight rate, the seven-day rate, and the overall rate. Each line tells a story of Uganda's economic journey, with peaks and troughs reflecting various economic conditions and policy decisions.</i></p>
-
 #### Key Observations:
-Peak in 2012: The most striking feature of this graph is the pronounced peak in 2012. During this year, we observed the highest rates across all three categories.
+**Peak in 2012:** The most striking feature of this graph is the pronounced peak in 2012. During this year, we observed the highest rates across all three categories.
 
 <img src="Assets/Tableau Charts/Average Interbank Rates by month 2012.png" alt="Avg Interbank Rates by month 2012"/>
 
-. General Downward Trend: Following the 2012 peak, we see a general downward trend in all three rates. This decline indicates a gradual easing of monetary policy over the years, potentially aimed at stimulating economic growth by reducing borrowing costs.
+**General Downward Trend:** Following the 2012 peak, we see a general downward trend in all three rates. This decline indicates a gradual easing of monetary policy over the years, potentially aimed at stimulating economic growth by reducing borrowing costs.
 
 . Convergence of Rates: As we move towards more recent years, we notice a convergence of the three rates. This narrowing spread between overnight and seven-day rates could indicate increased stability and predictability in the short-term money market.
 . Recent Uptick: Towards the end of the observed period (2023-2024), we see a slight upturn in rates. This recent increase might signal a shift in monetary policy stance, possibly in response to changing economic conditions or inflationary concerns.
