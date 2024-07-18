@@ -6,7 +6,7 @@ Picture this: In the heart of East Africa, a nation's economic destiny unfolds i
 
 "The interbank rate is the heartbeat of a nation's financial system," as renowned economist John Maynard Keynes once observed. "It sets the rhythm for economic growth and stability."
 
-This project delves into Uganda’s interbank rates from 2012 to 2024, using Excel for organizing and extracting data, Python for data cleaning and analysis, and Tableau for creating interactive dashboards and visuals.
+This project delves into Uganda’s interbank rates from 2012 to 2024, using Excel for organizing and extracting data, Python for data cleaning and analysis, and Tableau further analysis,visualisation and creating interactive dashboards.
 
 ### Our guide? 
 A rich dataset provided by the Bank of Uganda, offering a window into the country's economic soul. <a href="https://bou.or.ug/bouwebsite/bouwebsitecontent/statistics/InterestRates/Interest_rates.xlsx" target="_blank">SEE DATA SOURCE</a> from <a href="https://www.bou.or.ug/bouwebsite/Statistics/" target="_blank">Bank of Uganda Statistics</a>
@@ -47,14 +47,9 @@ There was a significant drop in rates in June 2024. The highest rates were obser
 The Average rate difference (Seven-day - Overnight): 0.3239166666666667
     
 This indicates that longer-term lending (seven-day) was generally perceived as riskier than overnight lending. </i></p>
+<img src="Assets/Tableau Charts/Avg Interbank Rates (2023-2024) Data Table.png" alt="Avg Interbank Rates (2023-2024) Data Table"/>
 
 **Volatility:** The graphs reveal periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
-
-#### Implications:
-. Monetary Policy Evolution: The overall downward trend in rates from 2012 to 2024 reflects a generally accommodative monetary policy stance. This approach likely aimed to support economic growth by keeping borrowing costs low.
-. Economic Cycles: The fluctuations in rates over the years may correspond to Uganda's economic cycles, reflecting periods of growth, inflation concerns, and external economic shocks.
-. Financial Market Development: The gradual smoothing of rate volatility and the convergence of different tenors suggest a maturing financial market, with improved liquidity management and more efficient pricing of short-term risks.
-. Policy Responsiveness: The sharp changes in rates, particularly the 2012 peak and subsequent rapid decline, demonstrate the Bank of Uganda's ability to respond decisively to economic conditions through its monetary policy tools.
 
 ## 3.	Time Travel
 
