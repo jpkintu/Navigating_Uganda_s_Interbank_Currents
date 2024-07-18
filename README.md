@@ -28,6 +28,11 @@ Let's start by examining the visual representation of the data:
 **Peak in 2012:** The most striking feature of this graph is the pronounced peak in 2012. During this year, we observed the highest rates across all three categories.
 
 <img src="Assets/Tableau Charts/Average Interbank Rates by month 2012.png" alt="Avg Interbank Rates by month 2012"/>
+<p><i>Looking further into 2012; The average interbank rates for 2012 were remarkably high compared to subsequent years. The overall rate averaged 16.64%, with the seven-day rate reaching an average of 18.96% and the overnight rate at 15.23%.
+January 2012 saw the highest rates of the year, with the overnight rate at 25.90%, the seven-day rate at 28.54%, and the overall rate at 26.65%. This spike suggests a period of significant financial stress or tight monetary policy at the beginning of the year.
+Throughout the year, we observe a general downward trend in rates. By September, the overnight rate had decreased to 10.00%, indicating a substantial easing of monetary conditions over the course of the year.
+Throughout 2012, the seven-day rate consistently remained higher than the overnight rate, with an average spread of about 3.73 percentage points. This spread suggests a premium for longer-term lending, reflecting higher perceived risks or expectations of rate changes.
+The rates show considerable volatility throughout the year. For instance, the overnight rate fluctuated from a high of 25.90% in January to a low of 10.00% in September, representing a range of nearly 16 percentage points.</i></p>
 
 **General Downward Trend:** Following the 2012 peak, we see a general downward trend in all three rates. This decline indicates a gradual easing of monetary policy over the years, potentially aimed at stimulating economic growth by reducing borrowing costs.
 
