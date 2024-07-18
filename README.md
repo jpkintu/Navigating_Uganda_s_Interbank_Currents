@@ -1,5 +1,6 @@
 <h1 style="text-align: center;">Navigating Uganda’s Interbank Currents: A Data Odyssey</h1>
-##  Introduction.
+
+## Introduction.
 
 Picture this: In the heart of East Africa, a nation's economic destiny unfolds in the quiet exchanges between banks. Every day, financial institutions in Uganda engage in a delicate dance of lending and borrowing, their moves choreographed by a single, powerful number - the interbank rate. This rate, often overlooked by the general public, holds the power to influence everything from the cost of your next business loan to the interest earned on your savings account.
 
@@ -39,9 +40,18 @@ The rates show considerable volatility throughout the year. For instance, the ov
 
 **General Downward Trend:** Following the 2012 peak, we see a general downward trend in all three rates. This decline indicates a gradual easing of monetary policy over the years, potentially aimed at stimulating economic growth by reducing borrowing costs.
 
-. Convergence of Rates: As we move towards more recent years, we notice a convergence of the three rates. This narrowing spread between overnight and seven-day rates could indicate increased stability and predictability in the short-term money market.
-. Recent Uptick: Towards the end of the observed period (2023-2024), we see a slight upturn in rates. This recent increase might signal a shift in monetary policy stance, possibly in response to changing economic conditions or inflationary concerns.
-. Volatility: The graph reveals periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
+**Convergence of Rates:** As we move towards more recent years, we notice a convergence of the three rates. This narrowing spread between overnight and seven-day rates indicates increased stability and predictability in the short-term money market.
+
+**Recent Uptick:** Towards the end of the observed period, focusing on 12 months (July 2023-June 2024), we see a slight upturn in rates. This recent increase might signal a shift in monetary policy stance, possibly in response to changing economic conditions or inflationary concerns.
+
+<img src="Assets/Tableau Charts/Avg Interbank Rates (2023-2024).png" alt="Avg Interbank Rates (2023-2024)"/>
+<p ><i>The seven-day rate consistently remained higher than the overnight rate between this period. Overall rates fluctuated between 10.106% and 12.005%.
+There was a significant drop in rates in June 2024. The highest rates were observed in April and May 2024. 
+The Average rate difference (Seven-day - Overnight): 0.3239166666666667
+    
+This indicates that longer-term lending (seven-day) was generally perceived as riskier than overnight lending. </i></p>
+
+**Volatility:** The graph reveals periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
 
 #### Implications:
 . Monetary Policy Evolution: The overall downward trend in rates from 2012 to 2024 reflects a generally accommodative monetary policy stance. This approach likely aimed to support economic growth by keeping borrowing costs low.
