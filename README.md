@@ -51,12 +51,6 @@ This indicates that longer-term lending (seven-day) was generally perceived as r
 
 **Volatility:** The graphs reveal periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
 
-#### Implications:
-. Monetary Policy Evolution: The overall downward trend in rates from 2012 to 2024 reflects a generally accommodative monetary policy stance. This approach likely aimed to support economic growth by keeping borrowing costs low.
-. Economic Cycles: The fluctuations in rates over the years may correspond to Uganda's economic cycles, reflecting periods of growth, inflation concerns, and external economic shocks.
-. Financial Market Development: The gradual smoothing of rate volatility and the convergence of different tenors suggest a maturing financial market, with improved liquidity management and more efficient pricing of short-term risks.
-. Policy Responsiveness: The sharp changes in rates, particularly the 2012 peak and subsequent rapid decline, demonstrate the Bank of Uganda's ability to respond decisively to economic conditions through its monetary policy tools.
-
 ## 3.	Time Travel
 
 ## 4.	Connections and Relationships
