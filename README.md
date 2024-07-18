@@ -8,7 +8,7 @@ Picture this: In the heart of East Africa, a nation's economic destiny unfolds i
 In this project, we embark on a journey through time, unraveling the intricate tapestry of Uganda's interbank rates from 2012 to 2024. 
 
 ### Our guide? 
-A rich dataset provided by the Bank of Uganda, offering a window into the country's economic soul. <a href="[https://example.com](https://bou.or.ug/bouwebsite/bouwebsitecontent/statistics/InterestRates/Interest_rates.xlsx)" target="_blank">SEE DATA SOURCE</a> from [Bank of Uganda Statistics](https://www.bou.or.ug/bouwebsite/Statistics/).
+A rich dataset provided by the Bank of Uganda, offering a window into the country's economic soul. <a href="[https://example.com](https://bou.or.ug/bouwebsite/bouwebsitecontent/statistics/InterestRates/Interest_rates.xlsx)" target="_blank">SEE DATA SOURCE</a> from <a href="[https://example.com](https://www.bou.or.ug/bouwebsite/Statistics/)" target="_blank">Bank of Uganda Statistics</a>
 
 ### Why does this matter?
 Interbank rates are more than just numbers on a banker's ledger. They are the invisible hand that shapes monetary policy, influences inflation, and ultimately affects the financial well-being of every Ugandan citizen. By understanding these rates, we gain insight into the nation's economic health, its challenges, and its triumphs.
