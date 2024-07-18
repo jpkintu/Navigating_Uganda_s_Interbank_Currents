@@ -1,4 +1,4 @@
-# Navigating Uganda’s Interbank Currents: A Data Odyssey
+# <p align="center">Navigating Uganda’s Interbank Currents: A Data Odyssey</p>
 
 ## 1.	Introduction
 Picture this: In the heart of East Africa, a nation's economic destiny unfolds in the quiet exchanges between banks. Every day, financial institutions in Uganda engage in a delicate dance of lending and borrowing, their moves choreographed by a single, powerful number - the interbank rate. This rate, often overlooked by the general public, holds the power to influence everything from the cost of your next business loan to the interest earned on your savings account.
@@ -23,7 +23,6 @@ Buckle up for a journey through the peaks and troughs of Uganda's financial hear
 
 ## 2.	Understanding the Data
 ### Trends in Uganda's Interbank Rates (2012-2024)
-
 Our journey into Uganda's financial landscape begins with an overview of the interbank rates from 2012 to 2024. This analysis provides a bird's-eye view of the trends and fluctuations in the country's financial system over more than a decade.
 
 Let's start by examining the visual representation of the data:
