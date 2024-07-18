@@ -84,7 +84,7 @@ filtered_df.set_index('Date', inplace=True)
 
 filtered_df.to_csv('assets/data/inter_bank_rates_july23_june24.csv')
 
-# mean, median ,SD calculations by month 
+# mean, median ,SD calculations on period 2023-2024
 df_june24=pd.read_csv('assets/data/inter_bank_rates_july23_june24.csv')
 df_june24['Date'] = pd.to_datetime(df_june24['Date'])
 
@@ -139,4 +139,76 @@ df_sd.to_csv('assets/data/interbank_rates_sd_by_month_2023_2024.csv')
 
 
 print(df_sd)
+
+
+# mean, median ,SD calculations on period 2012 where  we had the heighest picks
+#1ST FILTER DATA FOR THE PERIOD JAN 2012 -DEC 2012, AND EXTRACT IN NEW CSV
+df.info()
+start_date_2012 = '2012-01-01'
+end_date_2012 = '2012-12-31'
+
+df.info()
+df.head()
+df['Date'] = pd.to_datetime(df['Date'],format="%Y-%m-%d")
+
+df_2012 = df[(df['Date'] >= start_date_2012) & (df['Date'] <= end_date_2012)]
+df_2012.head()
+df_2012.info()
+
+
+
+df_2012.to_csv('assets/data/inter_bank_rates_2012.csv',index=False)
+
+
+import matplotlib.pyplot as plt
+import numpy as np
+import plotly.express as px
+import statistics
+
+#General Stats for 2012
+df_2012_summary=df_2012.describe().round(3)
+print(df_2012_summary)
+df_2012_summary.to_csv('assets/data/df_2012_summary.csv',index =False)
+
+# mean calculatioon by month for 2012
+df_2012.set_index('Date',inplace=True)
+df_2012_mean =df_2012.resample('ME').mean().round(3).plot(
+    kind='line',
+    xlabel="Months",
+    ylabel="Mean Inter Bank Rates",
+    title="Average Inter Bank Rates Spread over Months 2012"
+)
+plt.show();
+df_2012_mean.to_csv('assets/data/interbank_rates_means_by_month_2012.csv')
+print(df_2012_mean)
+
+# median calculatioon by month 2012
+df_2012_median =df_2012.resample('ME').median().round(3).plot(
+    kind='line',
+    xlabel="Months",
+    ylabel="Median Inter Bank Rates",
+    title="Median Inter Bank Rates Spread over Months 2012"
+)
+plt.show();
+df_2012_median.to_csv('assets/data/interbank_rates_median_by_month_2012.csv')
+print(df_2012_median)
+
+# SD calculatioon by month 2012
+df_2012=pd.read_csv('assets/data/inter_bank_rates_2012.csv')
+df_2012['Date'] = pd.to_datetime(df_2012['Date'],format='%Y-%m-%d')
+
+df_2012.head()
+df_2012.info()
+
+df__2012_sd = df_2012.groupby(df_2012['Date'].dt.to_period('M')).agg({'Overnight_rate': 'std', 'Seven_day_rate': 'std', 'Overall_rate': 'std'}).round(3).plot(
+    kind='line',
+    xlabel="Months",
+    ylabel="SD Inter Bank Rates",
+    title="Standard Deviation Inter Bank Rates Spread over Months 2012"
+)
+plt.show();
+df__2012_sd.to_csv('assets/data/interbank_rates_sd_by_month_2012.csv')
+
+
+print(df__2012_sd)
 
