@@ -48,7 +48,7 @@ The Average rate difference (Seven-day - Overnight): 0.3239166666666667
     
 This indicates that longer-term lending (seven-day) was generally perceived as riskier than overnight lending. </i></p>
 
-**Volatility:** The graph reveals periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
+**Volatility:** The graphs reveal periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
 
 #### Implications:
 . Monetary Policy Evolution: The overall downward trend in rates from 2012 to 2024 reflects a generally accommodative monetary policy stance. This approach likely aimed to support economic growth by keeping borrowing costs low.
