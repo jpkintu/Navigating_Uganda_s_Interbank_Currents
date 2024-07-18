@@ -24,6 +24,7 @@ Let's start by examining the visual representation of the data:
 <img src="Assets/Tableau Charts/Avg inter bank rates over years(2012-2024).png" alt="Avg inter bank rates over years(2012-2024)"/>
 <p align="center"><i>This graph illustrates the annual mean rates for three key metrics: the overnight rate, the seven-day rate, and the overall rate. Each line tells a story of Uganda's economic journey, with peaks and troughs reflecting various economic conditions and policy decisions.</i></p>
 #### Key Observations:
+
 **Peak in 2012:** The most striking feature of this graph is the pronounced peak in 2012. During this year, we observed the highest rates across all three categories.
 
 <img src="Assets/Tableau Charts/Average Interbank Rates by month 2012.png" alt="Avg Interbank Rates by month 2012"/>
