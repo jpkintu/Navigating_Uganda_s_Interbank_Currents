@@ -57,7 +57,7 @@ This indicates that longer-term lending (seven-day) was generally perceived as r
 
 <p><i>In examining Uganda's interbank rates from July 2023 to June 2024, we observed a forecasted increase in rates for the period from July to December 2024. The average seven-day rate is expected to rise to 11.3392%, the overnight rate to 10.8884%, and the overall rate to 10.9189%, compared to June 2024 averages of 10.7580%, 9.8070%, and 10.1060%, respectively. This projected rise suggests higher short-term lending costs due to anticipated economic conditions or monetary policy adjustments, reflecting tighter liquidity conditions or increased demand for short-term funds. The general upward trend in interbank lending rates indicates a cautious approach by financial institutions in response to expected economic developments.</i></p>
 
-### 2024 & 2025 Annual Based Estimates
+### Forecasted Annual Average Rates for 2024 and 2025
 <img src="Assets/Tableau Charts/Annual forecast 2024 & 2025.png" alt="Annual forecast 2024 & 2025"/>
 
 
