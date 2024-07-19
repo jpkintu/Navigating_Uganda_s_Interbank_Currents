@@ -51,14 +51,29 @@ This indicates that longer-term lending (seven-day) was generally perceived as r
 
 **Volatility:** The graphs reveal periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
 
-## 3.	Time Travel
+## Time Travel
 ### End of 2024 Estimates
 <img src="Assets/Tableau Charts/Forecast of Average Interbank Rates.png" alt="2024 Forecast of Average Interbank Rates"/>
 
 <p><i>In examining Uganda's interbank rates from July 2023 to June 2024, we observed a forecasted increase in rates for the period from July to December 2024. The average seven-day rate is expected to rise to 11.3392%, the overnight rate to 10.8884%, and the overall rate to 10.9189%, compared to June 2024 averages of 10.7580%, 9.8070%, and 10.1060%, respectively. This projected rise suggests higher short-term lending costs due to anticipated economic conditions or monetary policy adjustments, reflecting tighter liquidity conditions or increased demand for short-term funds. The general upward trend in interbank lending rates indicates a cautious approach by financial institutions in response to expected economic developments.</i></p>
 
+### Forecasted Annual Average Rates for 2024 and 2025
+<img src="Assets/Tableau Charts/Annual forecast 2024 & 2025.png" alt="Annual forecast 2024 & 2025"/>
+<p><i>Based on the analysis of annual average rates from 2012 to 2023, the forecasted rates for 2024 and 2025 show significant trends. For 2024, the average seven-day rate is estimated at 10.65%, and the overnight rate at 9.076%. This indicates a slight decrease from the 2023 averages of 11.03% for the seven-day rate and 10.683% for the overnight rate, suggesting a potential easing of short-term lending costs and improved liquidity conditions.
 
-## 4.	Connections and Relationships
+However, the forecast for 2025 shows a more pronounced change, with the seven-day rate dropping to 6.91%, while the overnight rate remains steady at 9.076%.  The stability of the overnight rate suggests that while short-term lending costs may decrease, the demand for very short-term funds might remain consistent.</i></p>
+
+
+## Connections and Relationships
+<img src="Assets/Py Charts/Inter bank rate correlations.png" alt="Inter bank rate correlations"/>
+<p><i>Our correlation analysis of Uganda’s interbank rates from 2012 to 2024 reveals several key insights:
+<li>Overnight rate and Overall rate have a very strong positive correlation (0.98).</li>
+<li>Seven-day rate has a moderate positive correlation with both the Overnight rate (0.73) and the Overall rate (0.78).</li>
+<li>The Overall rate is more closely aligned with the Overnight rate than the Seven-day rate.</li></i></p>
+
+<p><i>These findings suggest that short-term (overnight) rates have a stronger influence on the overall interbank rate compared to slightly longer-term (seven-day) rates. In practical terms, this means that fluctuations in the overnight rate are more likely to impact the overall cost of interbank lending. Financial institutions may prioritize monitoring and responding to changes in the overnight rate to manage their short-term liquidity needs effectively.
+
+The strong correlation between the overnight and overall rates indicates that the overall interbank rate is highly sensitive to short-term liquidity conditions. This could lead to more immediate adjustments in lending rates in response to central bank policies or market conditions affecting overnight funds. On the other hand, the moderate correlation of the seven-day rate with both the overnight and overall rates suggests that while it is still influential, its impact is less pronounced.</i></p>
 
 ## 5.	Volatility Unleashed
 
