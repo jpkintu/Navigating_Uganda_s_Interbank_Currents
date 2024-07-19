@@ -86,6 +86,7 @@ The strong correlation between the overnight and overall rates indicates that th
     <img src="Assets/Tableau Charts/Interbank rates SD 2023-2024.png" alt="Volatility of Interbank Rates July 2023 - June 2024" width="200"/>
     <p>Summary Volatility of Interbank RatesJuly 2023 - June 2024</p>
   </div>
+</div>
 ## 6.	Regression Quest
 
 ## 7.	Plot Twists: Event Analysis and Decision Points
