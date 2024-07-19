@@ -76,10 +76,10 @@ However, the forecast for 2025 shows a more pronounced change, with the seven-da
 The strong correlation between the overnight and overall rates indicates that the overall interbank rate is highly sensitive to short-term liquidity conditions. This could lead to more immediate adjustments in lending rates in response to central bank policies or market conditions affecting overnight funds. On the other hand, the moderate correlation of the seven-day rate with both the overnight and overall rates suggests that while it is still influential, its impact is less pronounced.</i></p>
 
 ## 5.	Volatility Unleashed
-<img src="Assets/Tableau Charts/Interbank rates SD by month 2012.png" alt="Volatility of Interbank Rates 2012"/>
+<img src="Assets/Tableau Charts/Interbank rates SD by month 201.png" alt="Volatility of Interbank Rates 2012"/>
 <p><i>Summary Volatility of Interbank Rates 2012</i></p>
 
-<img src="Assets/Tableau Charts/Interbank rates SD 2023-2024.png" alt="Volatility of Interbank Rates July 2023 - June 2024"/>
+<img src="Assets/Tableau Charts/Interbank rates SD 2023-202.png" alt="Volatility of Interbank Rates July 2023 - June 2024"/>
 <p><i>Summary Volatility of Interbank RatesJuly 2023 - June 2024</i></p>
 ## 6.	Regression Quest
 
