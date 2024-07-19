@@ -52,6 +52,11 @@ This indicates that longer-term lending (seven-day) was generally perceived as r
 **Volatility:** The graphs reveal periods of significant volatility, particularly in the earlier years. This volatility gradually decreases over time, suggesting an increasing maturity and stability in Uganda's financial markets.
 
 ## 3.	Time Travel
+### End of 2024 Estimates
+<img src="Assets/Tableau Charts/Forecast of Average Interbank Rates.png" alt="2024 Forecast of Average Interbank Rates"/>
+
+<p><i>In examining Uganda's interbank rates from July 2023 to June 2024, we observed a forecasted increase in rates for the period from July to December 2024. The average seven-day rate is expected to rise to 11.3392%, the overnight rate to 10.8884%, and the overall rate to 10.9189%, compared to June 2024 averages of 10.7580%, 9.8070%, and 10.1060%, respectively. This projected rise suggests higher short-term lending costs due to anticipated economic conditions or monetary policy adjustments, reflecting tighter liquidity conditions or increased demand for short-term funds. The general upward trend in interbank lending rates indicates a cautious approach by financial institutions in response to expected economic developments.</i></p>
+
 
 ## 4.	Connections and Relationships
 
