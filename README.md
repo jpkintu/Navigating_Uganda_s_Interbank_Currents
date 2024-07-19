@@ -84,6 +84,9 @@ The strong correlation between the overnight and overall rates indicates that th
 
 Compared to the previous period in 2012, the overall volatility levels are significantly lower in 2023-2024. The ranking of rates by average volatility remains consistent (Overnight > Overall > Seven-day). However, the timing of peak volatility has shifted from February in 2012 to various months in 2023-2024. This trend highlights changes in market dynamics and conditions over the years.</i></p>
 
+<img src="Assets/Tableau Charts/Volatility of Interbank RatesJune 2024.png" alt="Volatility of Interbank RatesJune 2024"/>
+<p><i>The weekly volatility analysis for June 2024 shows varying levels of interbank rate fluctuations. Week 1 experienced relatively low volatility, with the Overall rate being the most volatile. Week 2 saw a significant increase, particularly in the Seven-day and Overnight rates. Week 3 maintained high volatility, especially for the Overnight rate, indicating continued market instability. In Week 4, the Overnight rate’s volatility sharply increased, while the Seven-day rate had the lowest volatility of the month. Overall, June 2024 exhibited fluctuating volatility levels, with notable spikes in the second and fourth weeks, highlighting periods of increased market uncertainty and activity.</i></p>
+
 ## 6.	Regression Quest
 
 ## 7.	Plot Twists: Event Analysis and Decision Points
