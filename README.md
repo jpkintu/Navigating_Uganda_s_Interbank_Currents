@@ -64,7 +64,7 @@ This indicates that longer-term lending (seven-day) was generally perceived as r
 However, the forecast for 2025 shows a more pronounced change, with the seven-day rate dropping to 6.91%, while the overnight rate remains steady at 9.076%.  The stability of the overnight rate suggests that while short-term lending costs may decrease, the demand for very short-term funds might remain consistent.</i></p>
 
 
-## Connections and Relationships
+## Connections and Relationships: Correlation and Spread Analysis
 <img src="Assets/Py Charts/Inter bank rate correlations.png" alt="Inter bank rate correlations"/>
 <p><i>Our correlation analysis of Uganda’s interbank rates from 2012 to 2024 reveals several key insights:
 <li>Overnight rate and Overall rate have a very strong positive correlation (0.98).</li>
@@ -74,6 +74,9 @@ However, the forecast for 2025 shows a more pronounced change, with the seven-da
 <p><i>These findings suggest that short-term (overnight) rates have a stronger influence on the overall interbank rate compared to slightly longer-term (seven-day) rates. In practical terms, this means that fluctuations in the overnight rate are more likely to impact the overall cost of interbank lending. Financial institutions may prioritize monitoring and responding to changes in the overnight rate to manage their short-term liquidity needs effectively.
 
 The strong correlation between the overnight and overall rates indicates that the overall interbank rate is highly sensitive to short-term liquidity conditions. This could lead to more immediate adjustments in lending rates in response to central bank policies or market conditions affecting overnight funds. On the other hand, the moderate correlation of the seven-day rate with both the overnight and overall rates suggests that while it is still influential, its impact is less pronounced.</i></p>
+
+<img src="Assets/Tableau Charts/Trends in Interbank Rate Spreads.png" alt="Trends in Interbank Rate Spreads"/>
+<P><i>The analysis  from 2012 to 2024 reveals significant trends and fluctuations over the years. The average spread between the Seven-day and Overnight rates has generally decreased over time, with notable peaks and troughs. The years 2012 to 2016 experienced the highest average spreads, with 2012 peaking at 3.75360. From 2017 onwards, there is a noticeable decline in the average spreads, reaching as  low as 0.34367 in 2023. This trend suggests improved market stability and more consistent short-term lending conditions. The spread in 2024 shows a slight increase to 0.39723 compared to 2023.</i></P>
 
 ## Volatility Unleashed
 <img src="Assets/Tableau Charts/Interbank rates SD by month 2012.png" alt="Volatility of Interbank Rates 2012"/>
