@@ -80,7 +80,10 @@ The strong correlation between the overnight and overall rates indicates that th
 <p><i>The analysis of volatility in 2012 reveals several key observations. February 2012 experienced the highest volatility across all rates. The Overnight rate exhibited the highest average volatility at 3.16, followed by the Overall rate at 2.82, and the Seven-day rate at 1.44. After February, volatility generally decreased, although there were some fluctuations throughout the year. This trend highlights the significant impact of early-year market conditions on interbank rate stability.</i></p>
 
 <img src="Assets/Tableau Charts/Interbank rates SD 2023-2024.png" alt="Volatility of Interbank Rates July 2023 - June 2024"/>
-<p><i>Summary Volatility of Interbank RatesJuly 2023 - June 2024</i></p>
+<p><i>The analysis of interbank rate volatility from July 2023 to June 2024 reveals several key observations. The Overnight rate exhibited the highest average volatility at 0.369, followed by the Overall rate at 0.323, and the Seven-day rate at 0.230. June 2024 experienced the highest volatility for both the Overnight and Overall rates, while September 2023 saw the peak volatility for the Seven-day rate. Volatility fluctuated throughout the period, with notable spikes in certain months.
+
+Compared to the previous period in 2012, the overall volatility levels are significantly lower in 2023-2024. The ranking of rates by average volatility remains consistent (Overnight > Overall > Seven-day). However, the timing of peak volatility has shifted from February in 2012 to various months in 2023-2024. This trend highlights changes in market dynamics and conditions over the years.</i></p>
+
 ## 6.	Regression Quest
 
 ## 7.	Plot Twists: Event Analysis and Decision Points
