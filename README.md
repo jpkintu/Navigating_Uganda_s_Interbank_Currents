@@ -75,9 +75,9 @@ However, the forecast for 2025 shows a more pronounced change, with the seven-da
 
 The strong correlation between the overnight and overall rates indicates that the overall interbank rate is highly sensitive to short-term liquidity conditions. This could lead to more immediate adjustments in lending rates in response to central bank policies or market conditions affecting overnight funds. On the other hand, the moderate correlation of the seven-day rate with both the overnight and overall rates suggests that while it is still influential, its impact is less pronounced.</i></p>
 
-## 5.	Volatility Unleashed
+## Volatility Unleashed
 <img src="Assets/Tableau Charts/Interbank rates SD by month 2012.png" alt="Volatility of Interbank Rates 2012"/>
-<p><i>Summary Volatility of Interbank Rates 2012</i></p>
+<p><i>The analysis of volatility in 2012 reveals several key observations. February 2012 experienced the highest volatility across all rates. The Overnight rate exhibited the highest average volatility at 3.16, followed by the Overall rate at 2.82, and the Seven-day rate at 1.44. After February, volatility generally decreased, although there were some fluctuations throughout the year. This trend highlights the significant impact of early-year market conditions on interbank rate stability.</i></p>
 
 <img src="Assets/Tableau Charts/Interbank rates SD 2023-2024.png" alt="Volatility of Interbank Rates July 2023 - June 2024"/>
 <p><i>Summary Volatility of Interbank RatesJuly 2023 - June 2024</i></p>
