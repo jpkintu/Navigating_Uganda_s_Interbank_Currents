@@ -65,7 +65,17 @@ This indicates that longer-term lending (seven-day) was generally perceived as r
 However, the forecast for 2025 shows a more pronounced change, with the seven-day rate dropping to 6.91%, while the overnight rate remains steady at 9.076%.  The stability of the overnight rate suggests that while short-term lending costs may decrease, the demand for very short-term funds might remain consistent.</i></p>
 
 
-## 4.	Connections and Relationships
+## Connections and Relationships
+<img src="Assets/Py Charts/Inter bank rate correlations.png" alt="Inter bank rate correlations"/>
+
+<p><i>Our correlation analysis of Uganda’s interbank rates from 2012 to 2024 reveals several key insights:
+. Overnight rate and Overall rate have a very strong positive correlation (0.98).
+. Seven-day rate has a moderate positive correlation with both the Overnight rate (0.73) and the Overall rate (0.78).
+. The Overall rate is more closely aligned with the Overnight rate than the Seven-day rate.
+
+These findings suggest that short-term (overnight) rates have a stronger influence on the overall interbank rate compared to slightly longer-term (seven-day) rates. In practical terms, this means that fluctuations in the overnight rate are more likely to impact the overall cost of interbank lending. Financial institutions may prioritize monitoring and responding to changes in the overnight rate to manage their short-term liquidity needs effectively.
+
+The strong correlation between the overnight and overall rates indicates that the overall interbank rate is highly sensitive to short-term liquidity conditions. This could lead to more immediate adjustments in lending rates in response to central bank policies or market conditions affecting overnight funds. On the other hand, the moderate correlation of the seven-day rate with both the overnight and overall rates suggests that while it is still influential, its impact is less pronounced.</i></p>
 
 ## 5.	Volatility Unleashed
 
