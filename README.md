@@ -60,6 +60,9 @@ This indicates that longer-term lending (seven-day) was generally perceived as r
 ### Forecasted Annual Average Rates for 2024 and 2025
 <img src="Assets/Tableau Charts/Annual forecast 2024 & 2025.png" alt="Annual forecast 2024 & 2025"/>
 
+<p><i>Based on the analysis of annual average rates from 2012 to 2023, the forecasted rates for 2024 and 2025 show significant trends. For 2024, the average seven-day rate is estimated at 10.65%, and the overnight rate at 9.076%. This indicates a slight decrease from the 2023 averages of 11.03% for the seven-day rate and 10.683% for the overnight rate, suggesting a potential easing of short-term lending costs and improved liquidity conditions.
+
+However, the forecast for 2025 shows a more pronounced change, with the seven-day rate dropping to 6.91%, while the overnight rate remains steady at 9.076%.  The stability of the overnight rate suggests that while short-term lending costs may decrease, the demand for very short-term funds might remain consistent.</i></p>
 
 
 ## 4.	Connections and Relationships
