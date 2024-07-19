@@ -6,7 +6,7 @@ Picture this: In the heart of East Africa, a nation's economic destiny unfolds i
 "The interbank rate is the heartbeat of a nation's financial system," as renowned economist John Maynard Keynes once observed. "It sets the rhythm for economic growth and stability."
 
 This project delves into Uganda’s interbank rates from 2012 to 2024, using Excel for organizing and extracting data, Python for data cleaning and analysis, and Tableau further analysis,visualisation and creating interactive dashboards.
-<img src="Assets/Tableau Charts/Navigating Uganda’s Interbank Currents.png" alt="Navigating Uganda’s Interbank Currents"/>
+<img src="Assets/Tableau Charts/Navigating Uganda’s Interbank Currents.png" alt="Navigating Uganda’s Interbank Currents" width=500/>
 
 ### Our guide? 
 A rich dataset provided by the Bank of Uganda, offering a window into the country's economic soul. <a href="https://bou.or.ug/bouwebsite/bouwebsitecontent/statistics/InterestRates/Interest_rates.xlsx" target="_blank">SEE DATA SOURCE</a> from <a href="https://www.bou.or.ug/bouwebsite/Statistics/" target="_blank">Bank of Uganda Statistics</a>
