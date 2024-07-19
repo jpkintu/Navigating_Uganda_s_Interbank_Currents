@@ -78,13 +78,12 @@ The strong correlation between the overnight and overall rates indicates that th
 ## 5.	Volatility Unleashed
 <div style="display: flex; justify-content: space-around;">
   <div style="text-align: center;">
-    <img src="Assets/Tableau Charts/Interbank rates SD by month 2012.png" alt="Volatility of Interbank Rates
-2012" width="200"/>
-    <p>Summary Volatility of Interbank Rates 2012</p>
+    <img src="Assets/Tableau Charts/Interbank rates SD by month 2012.png" alt="Volatility of Interbank Rates 2012" width="500"/>
+    <p><i>Summary Volatility of Interbank Rates 2012</i></p>
   </div>
   <div style="text-align: center;">
-    <img src="Assets/Tableau Charts/Interbank rates SD 2023-2024.png" alt="Volatility of Interbank Rates July 2023 - June 2024" width="200"/>
-    <p>Summary Volatility of Interbank RatesJuly 2023 - June 2024</p>
+    <img src="Assets/Tableau Charts/Interbank rates SD 2023-2024.png" alt="Volatility of Interbank Rates July 2023 - June 2024" width="500"/>
+    <p><i>Summary Volatility of Interbank RatesJuly 2023 - June 2024</i></p>
   </div>
 </div>
 ## 6.	Regression Quest
