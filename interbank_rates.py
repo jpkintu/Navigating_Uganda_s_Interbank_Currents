@@ -212,3 +212,26 @@ df__2012_sd.to_csv('assets/data/interbank_rates_sd_by_month_2012.csv')
 
 print(df__2012_sd)
 
+#correlation Analysis on the 3 categories of the inter bank rates
+import seaborn as sns
+from scipy import stats
+from scipy.stats import pearsonr
+
+matrix_df=pd.read_csv('assets/data/inter_bank_rates_july23_june24.csv')
+matrix_df['Date'] = pd.to_datetime(matrix_df['Date'],format="%Y-%m-%d")
+
+matrix_df.head()
+matrix_df.info()
+
+matrix_df.set_index('Date',inplace=True)
+
+corr_matrix=matrix_df.corr(method='spearman').round(2)
+
+my_mask=np.triu(np.ones_like(corr_matrix))
+plt.figure(figsize=(10,8))
+plot=sns.heatmap(corr_matrix,annot=True,cmap='Blues',vmin=0, vmax=1,fmt="0.2f", square=True,mask=my_mask)
+plot.set_title('Interbank Rates')
+plt.show()
+
+corr_matrix.to_csv('assets/data/interbank_rates_correlations.csv')
+

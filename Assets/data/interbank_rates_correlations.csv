@@ -1,0 +1,4 @@
+,Overnight_rate,Seven_day_rate,Overall_rate
+Overnight_rate,1.0,0.73,0.98
+Seven_day_rate,0.73,1.0,0.78
+Overall_rate,0.98,0.78,1.0
