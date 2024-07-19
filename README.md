@@ -59,7 +59,6 @@ This indicates that longer-term lending (seven-day) was generally perceived as r
 
 ### Forecasted Annual Average Rates for 2024 and 2025
 <img src="Assets/Tableau Charts/Annual forecast 2024 & 2025.png" alt="Annual forecast 2024 & 2025"/>
-
 <p><i>Based on the analysis of annual average rates from 2012 to 2023, the forecasted rates for 2024 and 2025 show significant trends. For 2024, the average seven-day rate is estimated at 10.65%, and the overnight rate at 9.076%. This indicates a slight decrease from the 2023 averages of 11.03% for the seven-day rate and 10.683% for the overnight rate, suggesting a potential easing of short-term lending costs and improved liquidity conditions.
 
 However, the forecast for 2025 shows a more pronounced change, with the seven-day rate dropping to 6.91%, while the overnight rate remains steady at 9.076%.  The stability of the overnight rate suggests that while short-term lending costs may decrease, the demand for very short-term funds might remain consistent.</i></p>
@@ -67,11 +66,10 @@ However, the forecast for 2025 shows a more pronounced change, with the seven-da
 
 ## Connections and Relationships
 <img src="Assets/Py Charts/Inter bank rate correlations.png" alt="Inter bank rate correlations"/>
-
 <p><i>Our correlation analysis of Uganda’s interbank rates from 2012 to 2024 reveals several key insights:
-. Overnight rate and Overall rate have a very strong positive correlation (0.98).
-. Seven-day rate has a moderate positive correlation with both the Overnight rate (0.73) and the Overall rate (0.78).
-. The Overall rate is more closely aligned with the Overnight rate than the Seven-day rate.
+- Overnight rate and Overall rate have a very strong positive correlation (0.98).
+- Seven-day rate has a moderate positive correlation with both the Overnight rate (0.73) and the Overall rate (0.78).
+- The Overall rate is more closely aligned with the Overnight rate than the Seven-day rate.
 
 These findings suggest that short-term (overnight) rates have a stronger influence on the overall interbank rate compared to slightly longer-term (seven-day) rates. In practical terms, this means that fluctuations in the overnight rate are more likely to impact the overall cost of interbank lending. Financial institutions may prioritize monitoring and responding to changes in the overnight rate to manage their short-term liquidity needs effectively.
 
