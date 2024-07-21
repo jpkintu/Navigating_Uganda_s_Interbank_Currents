@@ -1,11 +1,21 @@
 <h1 style="text-align: center;">Navigating Uganda’s Interbank Currents: A Data Odyssey</h1>
 
+<img src="Assets/Tableau Charts/Dashboard 2.png" alt="Dashboard 2"/>
+
 ## Introduction
 Picture this: In the heart of East Africa, a nation's economic destiny unfolds in the quiet exchanges between banks. Every day, financial institutions in Uganda engage in a delicate dance of lending and borrowing, their moves choreographed by a single, powerful number - the interbank rate. This rate, often overlooked by the general public, holds the power to influence everything from the cost of your next business loan to the interest earned on your savings account.
 
 "The interbank rate is the heartbeat of a nation's financial system," as renowned economist John Maynard Keynes once observed. "It sets the rhythm for economic growth and stability."
 
-This project delves into Uganda’s interbank rates from 2012 to 2024, using Excel for organizing and extracting data, Python for data cleaning and analysis, and Tableau further analysis,visualisation and creating interactive dashboards.
+This project delves into Uganda’s interbank rates from 2012 to 2024.
+Through this project, I demonstrated expertise in:
+
+- Data extraction and organization using Excel
+- Data cleaning, modeling and analysis using Python(Libraries used included Pandas, NumPy, Matplolib, Seaborn)
+- Data visualization and dashboard creation using Tableau
+- Version control and creating a dedicated page for showcasing my analysis using GitHub
+
+Effectively wove together these skills to craft a narrative that uncovered hidden patterns, trends, and insights in the data, and presented findings in a clear, concise, and visually appealing manner.
 <img src="Assets/Tableau Charts/Navigating Uganda’s Interbank Currents.png" alt="Navigating Uganda’s Interbank Currents"/>
 
 ### Our guide? 
