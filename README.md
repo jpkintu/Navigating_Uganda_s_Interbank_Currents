@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Navigating Uganda’s Interbank Currents: A Data Odyssey</h1>
 
-<img src="Assets/Tableau Charts/Dashboard 2.png" alt="Dashboard 2"/>
+<img src="Assets/Tableau Charts/dashboard1.gif" alt="d1"/>
 
 ## Introduction
 Picture this: In the heart of East Africa, a nation's economic destiny unfolds in the quiet exchanges between banks. Every day, financial institutions in Uganda engage in a delicate dance of lending and borrowing, their moves choreographed by a single, powerful number - the interbank rate. This rate, often overlooked by the general public, holds the power to influence everything from the cost of your next business loan to the interest earned on your savings account.
