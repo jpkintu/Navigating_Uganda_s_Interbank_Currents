@@ -11,7 +11,7 @@ This project delves into Uganda’s interbank rates from 2012 to 2024.
 Through this project, I demonstrated expertise in:
 
 - Data extraction and organization using Excel
-- Data cleaning modeling and analysis using Python(Libraries used included Pandas, NumPy, Matplolib, Seaborn
+- Data cleaning, modeling and analysis using Python(Libraries used included Pandas, NumPy, Matplolib, Seaborn)
 - Data visualization and dashboard creation using Tableau
 - Version control and creating a dedicated page for showcasing my analysis using GitHub
 
