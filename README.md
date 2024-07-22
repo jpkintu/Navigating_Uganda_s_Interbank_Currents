@@ -126,8 +126,6 @@ For further reading, refer to sources below;
 - <a href="https://www.bou.or.ug/bouwebsite/bouwebsitecontent/MonetaryPolicy/Monetary-Policy-Statements-At-a-Glance/2024/Monetary-Policy-Statement-at-a-glance-for-March-2024.-.pdf" target="_blank">MONETARY POLICY STATEMENT - at a glance</a>
 - <a href="https://thedocs.worldbank.org/en/doc/bae48ff2fefc5a869546775b3f010735-0500062021/related/mpo-uga.pdf" target="_blank">Uganda:Key Conditions and Challenges</a>
 
-## 8.	Conclusion: The Journey Continues
-
 <!-- Footer section -->
 <footer>
     <div class="footer-content">
