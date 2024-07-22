@@ -109,12 +109,13 @@ These insights are particularly relevant for policymakers, as they underscore th
 For investors and businesses, understanding this relationship is essential for making informed decisions regarding borrowing, investment, and pricing strategies. As we navigate the complexities of the economic landscape, these findings serve as a reminder of the interconnectedness of monetary policy and inflation, and the importance of data-driven decision-making in fostering economic stability.
 
 ## Plot Twists: Event Analysis and Decision Points
-#### Central Bank Announcements:
+### Central Bank Announcements:
 - 2012: The Bank of Uganda (BoU) maintained a tight monetary policy to control high inflation caused by global food and fuel price shocks.
 - 2016: BoU reduced the Central Bank Rate (CBR) to stimulate economic growth amid low inflation , which  resulted in reduced interbank rates, aiming to boost lending and economic activity.
 - 2020: In response to the COVID-19 pandemic, BoU cut the CBR to a record low of 7% to support economic activity, this led to lower interbank rates, providing liquidity to the financial system during the pandemic.
 - 2024: BoU raised the CBR to 10.25% in April to curb rising inflation and stabilize the depreciating shilling. This caused interbank rates to rise, aiming to control inflation and stabilize the currency.
-#### Economic Shocks:
+  
+### Economic Shocks:
 - 2012-2013: Global commodity price fluctuations impacted Uganda’s inflation and trade balance.
 - 2016: Droughts affected agricultural output, leading to food price inflation.
 - 2020: The COVID-19 pandemic caused significant economic disruptions, leading to a contraction in GDP.
