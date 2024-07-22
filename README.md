@@ -100,7 +100,7 @@ Compared to the previous period in 2012, the overall volatility levels are signi
 <img src="Assets/Tableau Charts/Volatility of Interbank RatesJune 2024.png" alt="Volatility of Interbank RatesJune 2024"/>
 <p><i>The weekly volatility analysis for June 2024 shows varying levels of interbank rate fluctuations. Week 1 experienced relatively low volatility, with the Overall rate being the most volatile. Week 2 saw a significant increase, particularly in the Seven-day and Overnight rates. Week 3 maintained high volatility, especially for the Overnight rate, indicating continued market instability. In Week 4, the Overnight rate’s volatility sharply increased, while the Seven-day rate had the lowest volatility of the month. Overall, June 2024 exhibited fluctuating volatility levels, with notable spikes in the second and fourth weeks, highlighting periods of increased market uncertainty and activity.</i></p>
 
-## 6.	Regression Quest
+## Regression Quest
 <img src="Assets/Tableau Charts/Regression of Interbank Rates Vs Inflation2012-2023.png" alt="Regression of Interbank Rates Vs Inflation2012-2023"/>
 In analyzing the relationship between interbank rates and inflation in Uganda from 2012 to 2023, our findings reveal a significant positive correlation across all three interbank rates: Overall, Overnight, and Seven-day. As interbank rates rise, inflation tends to follow suit, highlighting the critical role of monetary policy in shaping economic conditions.
 
